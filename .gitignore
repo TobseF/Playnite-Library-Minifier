@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
