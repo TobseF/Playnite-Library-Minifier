@@ -24,7 +24,7 @@ To resize the images it uses [Image Magic](https://imagemagick.org/index.php).
  ⭐ Update static html files
 
 ## 🛠 Config
-Before lunch, edit the variables in the script according your machine setup.
+Before launch, edit the variables in the script according your machine setup.
  * `simulate`: For testing. If true, no files will be changed.
  * `gamesPath`: Your Playnite library game folder. Used to load the game data.
  * `outputPath`: Folder where it converts the images.
